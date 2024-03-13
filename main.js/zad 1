@@ -1,0 +1,4 @@
+const FULLNAME = "Dmytro Danyliuk";
+const STUDENT_ID = "44006";
+
+console.log(`My name is ${FULLNAME}. My student ID is ${STUDENT_ID}`);

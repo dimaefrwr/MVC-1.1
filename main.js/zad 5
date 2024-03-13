@@ -1,0 +1,15 @@
+const FULLNAME = "Dmytro Danyliuk";
+const STUDENT_ID = "44006";
+
+function getStudentFullName() {
+  return FULLNAME;
+}
+
+function getStudentId() {
+  return STUDENT_ID;
+}
+
+module.exports = {
+  getStudentFullName,
+  getStudentId,
+};
